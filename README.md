@@ -26,7 +26,14 @@ To begin using this template, choose one of the following options to get started
 
 Strona zawiera tematyczne sekcje i przykłady dla lepszego zrozumienia zagadnienia. Każdą sekcje można traktować jako niezależny wątek, zaleca się jednak rozpoczęcie nauki od skonfigurowania git na komputerze lokalnym.  
 <br>
+
+## Setup Git
+
+Git: https://git-scm.com/downloads
 <br>
+Konfiguracja: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+<br>
+<br><hr>
 
 ##### Copyright and License
 
